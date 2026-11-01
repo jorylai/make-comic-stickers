@@ -1,0 +1,34 @@
+{
+  "sheet_mm": [
+    140,
+    210
+  ],
+  "dpi": 600,
+  "columns": 3,
+  "rows": 4,
+  "offset_mm": 2.08,
+  "min_gap_mm": 4,
+  "side_margin_mm": 8,
+  "themes": [
+    {
+      "id": "01_comic_mix",
+      "title": "漫画贴纸素材集",
+      "assets": [
+        "art/person-comic.png",
+        "art/dog-comic.png",
+        "art/coffee-comic.png",
+        "art/flower-comic.png",
+        "art/landmark-comic.png",
+        "art/group-comic.png"
+      ],
+      "captions": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

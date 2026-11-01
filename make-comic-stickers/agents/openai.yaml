@@ -1,0 +1,13 @@
+interface:
+  display_name: "图片转漫画贴纸工坊"
+  short_description: "将人物、动物、物品或风景图片制作成漫画贴纸，自动排版并输出独立红色刀模线"
+  default_prompt: "使用 $make-comic-stickers，把我提供的图片制作成漫画风格贴纸，完成印刷排版并导出手机预览、位图印刷稿及独立红色刀模线。"
+  icon_small: "assets/icon.svg"
+  icon_large: "assets/icon.svg"
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
